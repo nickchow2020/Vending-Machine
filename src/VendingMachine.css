@@ -1,0 +1,11 @@
+ul li {
+    list-style-type: none;
+}
+
+div a {
+    margin: 1rem;
+}
+
+div a :active{
+    color: tomato;
+}
